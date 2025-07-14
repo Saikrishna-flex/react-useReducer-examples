@@ -26,11 +26,11 @@ A real-world use case where `useReducer` manages API states:
 - Maintains cleaner and scalable state transitions
 
 📂 Path: 
-
+```
 src/components/PostList.jsx
 src/reducer/post/postReducer.jsx
 src/reducer/post/postActionTypes.jsx
-
+```
 ---
 
 ## 🧠 Why `useReducer`?
