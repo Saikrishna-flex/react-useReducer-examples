@@ -13,10 +13,11 @@ A simple counter app to demonstrate the basics of `useReducer`:
 - Clean state management
 
 📂 Path: 
+```
 src/components/Counter.jsx
 src/reducer/counter/counterReducer.jsx
 src/reducer/counter/counterActionTypes.jsx
-
+```
 ---
 
 ### 2. **Post Fetch Example**
